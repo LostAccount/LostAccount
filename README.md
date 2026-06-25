@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... many things
-- 🌱 I’m currently learning ... GitHub
+- 🌱 I’m currently learning ... GitHub, GitHub Actions
 - 👯 I’m looking to collaborate on ... nothing at the moment
 - 🤔 I’m looking for help with ... nothing at the moment
 
