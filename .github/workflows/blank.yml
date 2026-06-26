@@ -24,6 +24,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
+      - uses: action/setup-node@v4
+        with:
+          node-version: '24'
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
